@@ -1,0 +1,26 @@
+# This is a sample .gitignore file for Unity projects
+
+# Ignore all files in the build output directories
+[Ll]ibrary/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore script compilation and Visual Studio cache directories
+[Tt]emp/
+[Oo]bj/
+.vs/
+
+# Ignore all .csproj, .sln, and .userprefs files
+*.csproj
+*.sln
+*.userprefs
+
+# Other files to ignore
+*.pidb
+*.pidb.meta
+*.swp
+*.swp.meta
+*.unityproj
+*.DS_Store
+*.apdisk
